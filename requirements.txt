@@ -1,0 +1,9 @@
+PyPDF2
+pandas
+chromadb
+sentence-transformers
+langchain
+langchain_community
+pypdf
+streamlit
+faiss
